@@ -10,7 +10,7 @@ interface Productinfo {
   image: string;
 }
 
-export const chairsArray = [
+const chairsArray = [
   {
     id: 1,
     name: "Wella laage mex",
